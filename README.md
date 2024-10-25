@@ -1,9 +1,11 @@
-🖥️ Projecto-portifolio - Dantas
+🖥️ Projeto Portifolio - Dantas
+
   Projeto desenvolvido para demostra meus trabalhos a página evolui conforme o aprendizado avança. 📚✨
 
 
 ## Foto do Projeto
-![Captura de tela 2024-10-25 163311](https://github.com/user-attachments/assets/99314613-2c5a-410a-9489-d63c6b008501)
+![Captura de tela 2024-10-25 163237](https://github.com/user-attachments/assets/431d0808-a1fa-4254-87f5-299fb3fb1a0c)
+
 
 ![Captura de tela 2024-10-25 163311](https://github.com/user-attachments/assets/651e482f-6724-4fe5-bd8e-8561148151b7)
 
@@ -26,6 +28,7 @@ GitHub Pages: Onde meu portfólio está hospedado.
 ## Pré-Requisitos
 
   * Não há pré-requisitos especiais para visualizar este projeto além de um navegador web moderno.
+    
 ## Como contribuir
 
    Se deseja contribuir com melhorias ou corrigir possíveis problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
