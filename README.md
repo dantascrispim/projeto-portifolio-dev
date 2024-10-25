@@ -1,3 +1,4 @@
+
  ## 🖥️ Projeto Portifolio - Dantas
 
   Projeto desenvolvido para demostra meus trabalhos a página evolui conforme o aprendizado avança. 📚✨
@@ -12,12 +13,12 @@
 
 
 
-🚀 O Que é?
+## 🚀 O Que é?
   Este portfólio online apresenta minhas habilidades, projetos desenvolvidos e trajetória de aprendizado na área de desenvolvimento. 
   É um espaço dedicado a exibir meu trabalho e crescimento profissional. 🌐💻
 
 
-🛠️ Tecnologias Usadas
+## 🛠️ Tecnologias Usadas
   - HTML: Para estruturar tudo.
   - CSS: Para deixar tudo bonito e responsivo.
   - JavaScript: Para adicionar aquela interatividade.
