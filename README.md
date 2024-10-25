@@ -1,4 +1,4 @@
-🖥️ Projeto Portifolio - Dantas
+ ## 🖥️ Projeto Portifolio - Dantas
 
   Projeto desenvolvido para demostra meus trabalhos a página evolui conforme o aprendizado avança. 📚✨
 
@@ -38,8 +38,9 @@
   Você pode ver o projeto ao vivo aqui: Meu Portfólio
 
 📫 Como Me Encontrar:
-  Linkedin: Dantas Crispim
 
-  Email: dantas10.crispim@gmail.com
+     Linkedin: Dantas Crispim
 
-📝 Contribuições Se você tiver sugestões ou ideias para melhorar meu portfólio, fique à vontade para abrir uma issue ou fazer um pull request. Estou sempre aberta a feedback!
+     Email: dantas10.crispim@gmail.com
+
+📝 Contribuições Contribua com suas ideias para aprimorar meu portfólio abrindo uma issue ou fazendo um pull request. Feedbacks são bem-vindos! 🌟🚀
