@@ -322,6 +322,13 @@ footer & .social-name-item img {
     height: 20px;
 }
 
+.copy {
+    text-align: center;
+    color: #C0C4CE;
+    line-height: 38px;
+    margin: 30px;
+    font-size: 18px;
+}
 
 
 @media (max-width: 768px) {
